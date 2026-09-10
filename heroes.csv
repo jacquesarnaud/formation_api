@@ -1,0 +1,16 @@
+id,name,title,power,role,image,rarity,active
+1,Aether,Le Voyageur,Énergie élémentaire,DPS,/images/heroes/aether.jpg,5,True
+2,Lumine,La Voyageuse,Énergie élémentaire,DPS,/images/heroes/lumine.jpg,5,True
+3,Diluc,Le Chevalier des Ténèbres,Pyro,DPS,/images/heroes/diluc.jpg,5,True
+4,Jean,La Grande Maîtresse,Anémo,Support,/images/heroes/jean.jpg,5,True
+5,Kaeya,Le Capitaine de Cavalerie,Cryo,Support,/images/heroes/kaeya.jpg,4,True
+6,Lisa,La Sorcière de la Foudre,Électro,DPS,/images/heroes/lisa.jpg,4,True
+7,Amber,La Championne de Planage,Pyro,DPS,/images/heroes/amber.jpg,4,True
+8,Barbara,L'Idole de Mondstadt,Hydro,Soigneur,/images/heroes/barbara.jpg,4,True
+9,Xiangling,La Maîtresse du Feu,Pyro,DPS,/images/heroes/xiangling.jpg,4,True
+10,Zhongli,Le Seigneur de la Pierre,Géo,Support,/images/heroes/zhongli.jpg,5,True
+11,Raiden,L'Archonte Électro,Électro,DPS,/images/heroes/raiden.jpg,5,True
+12,Nahida,La Petite Souveraine,Dendro,Support,/images/heroes/nahida.jpg,5,True
+13,Hu Tao,La Directrice des Pompes Funèbres,Pyro,DPS,/images/heroes/hutao.jpg,5,True
+14,Kazuha,Le Samouraï Errant,Anémo,Support,/images/heroes/kazuha.jpg,5,True
+15,Furina,L'Archonte Hydro,Hydro,Support,/images/heroes/furina.jpg,5,True

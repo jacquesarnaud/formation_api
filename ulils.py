@@ -4,6 +4,6 @@ def find_proper_hero_id (hero):
     if len(HEROES) == 0:
         hero["id"]==1
     else:
-        hero["id"] = HEROES[-1].get("id") + 1
+        hero.id = HEROES[-1].id + 1
 
     return hero
